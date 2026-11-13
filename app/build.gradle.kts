@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.meeting9"
+    namespace = "com.example.roomdb"
     compileSdk {
         version = release(37)
     }
