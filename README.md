@@ -20,3 +20,14 @@ Home Screen (With Student Data)
 <img width="409" height="809" alt="image" src="https://github.com/user-attachments/assets/5833ea26-45c4-463a-a348-ef206aa270ab" />
 
 
+WEEK : 10
+
+<img width="432" height="884" alt="image" src="https://github.com/user-attachments/assets/d4462059-ed43-428d-9b74-989bcfa4e70f" />
+
+
+
+<img width="431" height="866" alt="image" src="https://github.com/user-attachments/assets/d5e215fa-64e4-4455-8054-4879e4bf1005" />
+
+
+
+
