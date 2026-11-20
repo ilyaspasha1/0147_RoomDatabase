@@ -3,8 +3,8 @@ package com.example.roomdb.uicontroller
 import com.example.roomdb.R
 
 object DestinasiDetailSiswa : DestinasiNavigasi {
-    override val route = "item_detail"
+    override val route = "detail_siswa"
     override val titleRes = R.string.detail_siswa
-    const val itemIdArg = "itemId"
+    const val itemIdArg = "idSiswa"
     val routeWithArgs = "$route/{$itemIdArg}"
 }
