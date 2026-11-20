@@ -36,8 +36,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.roomdb.R
 import com.example.roomdb.room.Siswa
-import com.example.roomdb.uicontroller.DestinasiDetailSiswa
-import com.example.roomdb.uicontroller.SiswaTopAppBar
+import com.example.roomdb.view.route.DestinasiDetailSiswa
+import com.example.roomdb.view.uicontroller.SiswaTopAppBar
 import com.example.roomdb.viewmodel.DetailSiswaUiState
 import com.example.roomdb.viewmodel.DetailViewModel
 import com.example.roomdb.viewmodel.provider.PenyediaViewModel

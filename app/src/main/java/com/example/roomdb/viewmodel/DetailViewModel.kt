@@ -4,7 +4,7 @@ import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.roomdb.repositori.RepositoriSiswa
-import com.example.roomdb.uicontroller.DestinasiDetailSiswa
+import com.example.roomdb.view.route.DestinasiDetailSiswa
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.filterNotNull

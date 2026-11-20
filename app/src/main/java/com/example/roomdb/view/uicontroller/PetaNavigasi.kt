@@ -1,4 +1,6 @@
-package com.example.roomdb.uicontroller
+package com.example.roomdb.view.uicontroller
+
+import com.example.roomdb.view.route.*
 
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.runtime.Composable

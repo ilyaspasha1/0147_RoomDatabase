@@ -1,4 +1,4 @@
-package com.example.roomdb.uicontroller
+package com.example.roomdb.view.uicontroller
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
